@@ -1,7 +1,16 @@
 # UK CPI Time Series Forecasting
 
 ## Project Overview
+## Project Report
 
+This project summary includes:
+- ARIMA model selection
+- Stationarity testing
+- ACF/PACF analysis
+- Forecast evaluation
+- Economic interpretation
+
+[Download Project Summary PDF](forecasting_project_summary.pdf)
 This project analyses and forecasts UK Consumer Price Index (CPI) trends using time series modelling techniques.
 
 The study focuses on understanding inflation behaviour in the United Kingdom between 2002 and 2022 using historical CPI data and forecasting models.
