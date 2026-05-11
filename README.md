@@ -69,3 +69,23 @@ The project involved:
 Ardra Lekshmi  
 MSc Finance & Investment (CFA Pathway)  
 University of Aberdeen
+
+## Visual Analysis
+
+### UK CPI Trend Analysis
+![UK CPI Trend](uk-consumer-price-index-trend.png)
+
+### ACF and PACF Analysis
+![ACF PACF UK CPI](acf-pacf-ukcpi.png)
+
+### Differenced UK CPI ACF/PACF
+![Differenced ACF PACF](acf-pacf-differenced-ukcpi.png)
+
+### ARIMA Residual Analysis
+![ARIMA Residuals](arima-model-residuals.png)
+
+### Residual Distribution
+![Residual Histogram](histogram-one-step-residuals.png)
+
+### One-Step Forecast Predictions
+![Forecast Predictions](time-series-one-step-predictions.png)
